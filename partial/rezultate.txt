@@ -1,0 +1,10 @@
+Subiectul 1
+(a) drum: [1 2 3 4 1]  probabilitate: 0.000338688
+(b) drum: [1 2 3 4 1]  probabilitate: 0.0008268749999999998
+raport (b)/(a): 2.441406249999999
+(a) P(A | B, C) pe lung: [0.76038619 0.23961381]  formula: [0.76038619 0.23961381]
+(b) P(D | A,B,C,E) pe lung: [0.50375901 0.49624099]  formula: [0.50375901 0.49624099]
+prior           Beta(2,8)  media = 0.2000
+(a) lot 1       Beta(7,23)  media = 0.2333
+(b) lot 1+2     Beta(10,35)  media = 0.2222
+(c) doar lot 2  Beta(5,20)  media = 0.2000
